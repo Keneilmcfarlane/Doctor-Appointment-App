@@ -1,4 +1,4 @@
-# doctor_appointment_app_main_test
+# doctor_appointment_app
 
 A new Flutter project.
 
